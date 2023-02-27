@@ -1,11 +1,4 @@
 <template>
-  <!-- <nav>
-    <div class="container">
-    <router-link class="navbar-brand" to="/">
-      <img class="logo-m" src="img/2nd-home.png" alt="">
-    </router-link>
-    </div>
-  </nav> -->
   <nav class="navbar navbar-expand-lg bg-warning bg-yellow">
     <div class="container">
       <router-link class="navbar-brand" to="/">

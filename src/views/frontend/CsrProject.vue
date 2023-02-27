@@ -1,0 +1,46 @@
+<template>
+  <div>
+    <div class="jumbotron jumbotron-fluid bg-cover mb-0 bg-img-height-l d-none d-md-block"
+    style="background-image:url(img/csr-project.png); height:350px">
+    </div>
+    <div class="jumbotron jumbotron-fluid bg-cover mb-0 bg-img-height-l d-md-none"
+    style="background-image:url(img/csr-project.png); height:200px">
+    </div>
+    <div class="bg-light py-4">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-10">
+            <h3 class="text-center fw-bold">無論您是</h3>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col-md-4 text-center mt-2 mt-md-0">
+            <img src="img/sustainable-enterprise-icon.png" alt="">
+            <p class="mt-2">關注企業社會責任的永續企業</p>
+          </div>
+          <div class="col-md-4 text-center mt-2 mt-md-0">
+            <img src="img/countryside-revitalization-icon.png" alt="">
+            <p class="mt-2">致力於地方創生的區域組織</p>
+          </div>
+          <div class="col-md-4 text-center mt-2 mt-md-0">
+            <img src="img/startup-rocket-icon.png" alt="">
+            <p class="mt-2">想為改善家鄉做出貢獻的新創團隊</p>
+          </div>
+        </div>
+        <div class="row justify-content-center mt-4">
+          <div class="col-10">
+            <h3 class="text-center fw-bold">都可透過Second Home 來逐步實現您的目標</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  data () {
+    return {}
+  }
+}
+</script>
