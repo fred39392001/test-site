@@ -198,7 +198,7 @@
             </div>
           </div>
         </div>
-        <div class="row justify-content-center mt-md-4">
+        <div class="row justify-content-center mt-4">
           <div class="col-10">
             <h3 class="text-center fw-bold">五育融通指標</h3>
           </div>
@@ -254,7 +254,7 @@
             </div>
           </div>
         </div>
-        <div class="row justify-content-center mt-md-4">
+        <div class="row justify-content-center mt-4">
           <div class="col-10">
             <h3 class="text-center fw-bold">社區營造指標</h3>
           </div>
