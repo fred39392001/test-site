@@ -9,6 +9,10 @@ const routes = [
       {
         path: '',
         component: () => import('../views/frontend/About2ndHome.vue')
+      },
+      {
+        path: '/total-kpi',
+        component: () => import('../views/frontend/TotalKpi.vue')
       }
     ]
   }
