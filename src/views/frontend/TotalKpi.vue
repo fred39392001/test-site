@@ -344,8 +344,8 @@
             <h3 class="text-center fw-bold">專案列表</h3>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-4">
+        <div class="row mt-md-4">
+          <div class="col-md-4 mt-3 mt-md-0">
             <div class="card rounded-0">
               <div class="d-flex justify-content-center">
                 <div class="img-fluid bg-cover" style="background-image:url(img/project-img.jpg); width:100% ;height:200px"></div>
@@ -393,7 +393,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 mt-3 mt-md-0">
             <div class="card rounded-0">
               <div class="d-flex justify-content-center">
                 <div class="img-fluid bg-cover" style="background-image:url(img/project-img-02.png); width:100% ;height:200px"></div>
@@ -431,7 +431,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 mt-3 mt-md-0">
             <div class="card rounded-0">
               <div class="d-flex justify-content-center">
                 <div class="img-fluid bg-cover" style="background-image:url(img/project-img-04.png); width:100% ;height:200px"></div>
