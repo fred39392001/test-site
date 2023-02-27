@@ -9,10 +9,6 @@ const routes = [
       {
         path: '',
         component: () => import('../views/frontend/About2ndHome.vue')
-      },
-      {
-        path: '/csr-project',
-        component: () => import('../views/frontend/CsrProject.vue')
       }
     ]
   }
