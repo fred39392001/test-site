@@ -22,10 +22,10 @@
                   <img class="me-3" src="img/fb-icon.svg" alt="" style="height: 25px;">
                 </router-link>
                 <router-link to="" target="_blank">
-                  <img class="me-3" src="img/linkedin-Icon.svg" alt="" style="height: 25px;">
+                  <img class="me-3" src="img/linkedin-icon.svg" alt="" style="height: 25px;">
                 </router-link>
                 <router-link to="" target="_blank">
-                  <img class="me-3" src="img/instagram-Icon.svg" alt="" style="height: 25px;">
+                  <img class="me-3" src="img/instagram-icon.svg" alt="" style="height: 25px;">
                 </router-link>
                 <router-link to="" target="_blank">
                   <img src="img/youtube-icon.svg" alt="" style="height: 25px;">
