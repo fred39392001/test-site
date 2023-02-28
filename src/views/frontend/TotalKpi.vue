@@ -17,7 +17,7 @@
           <div class="col">
             <div class="d-flex flex-wrap justify-content-center">
               <div class="mt-3 mt-md-0 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-1.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -26,7 +26,7 @@
                 </div>
               </div>
               <div class="mt-3 mt-md-0 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-2.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -35,7 +35,7 @@
                 </div>
               </div>
               <div class="mt-3 mt-md-0 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-3.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -44,7 +44,7 @@
                 </div>
               </div>
               <div class="mt-3 mt-md-0 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-4.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -53,7 +53,7 @@
                 </div>
               </div>
               <div class="mt-3 mt-md-0 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-5.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -62,7 +62,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-6.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -71,7 +71,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-7.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -80,7 +80,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-8.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -89,7 +89,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-9.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -98,7 +98,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-10.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -107,7 +107,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-11.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -116,7 +116,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-12.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -125,7 +125,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-13.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -134,7 +134,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-14.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -143,7 +143,7 @@
                 </div>
               </div>
               <div class="mt-3 mx-2">
-                <div class="card rounded-0" style="max-width:200px">
+                <div class="card rounded-0" style="max-width:220px">
                   <img src="img/SDGs-15.png" class="card-img-top rounded-0">
                   <div class="card-body">
                     <p class="card-text">關係人口:<span>283</span>人</p>
@@ -484,3 +484,11 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  data () {
+    return {}
+  }
+}
+</script>

@@ -13,6 +13,10 @@ const routes = [
       {
         path: '/total-kpi',
         component: () => import('../views/frontend/TotalKpi.vue')
+      },
+      {
+        path: '/project-content',
+        component: () => import('../views/frontend/ProjectContent.vue')
       }
     ]
   }
